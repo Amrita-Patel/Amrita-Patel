@@ -12,7 +12,7 @@ I’m currently focused on improving my skills in:
 - Spring Boot for backend development 🚀
 
 
-## 💬 Ask me about Java, SQL
+## 💬 Ask me about Java
 
 
 ## 📫 Get in Touch
